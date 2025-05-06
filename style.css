@@ -325,24 +325,24 @@ h3 {
     height: 54px;
     width: 550px;
 }
-.trala{
+.memo{
     height: 370px;
     width: 1130px;
     background-color: #E6F7FF;
 }
-.crocodilo{
+.req{
     height: 258px;
     width: 480px;
     margin-left: 64px;
     margin-top: 64px;
     margin-bottom: 48px;
 }
-.gli{
+.qwer{
     height: 54px;
     width: 400px;
     margin-top: 21px;
 }
-.demo1 {
+.qwert {
     color: #FFFFFF;
     background-color: #0070A0;
     height: 43px;
@@ -350,7 +350,7 @@ h3 {
     padding: 6px 20px;
     border: none;
 }
-.grrr{
+.ran{
     column-gap: 36px;
     display: flex;
     font-family: "Inter", sans-serif;
@@ -367,7 +367,7 @@ h3 {
 
 
 
- .girl2{
+ .jeg{
     display: grid;
     grid-template-columns: repeat(4, auto);
     grid-template-rows: repeat(1, );
@@ -376,7 +376,7 @@ h3 {
       "content 👾 good footer ";
   }
   
-  .guss1 {
+  .jeg1 {
     grid-area: content;
     height: 216px;
     width: 432px;
